@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gifencoder": "^2.0.1",
+    "png-js": "^0.1.1",
     "puppeteer": "^1.18.1"
   }
 }
