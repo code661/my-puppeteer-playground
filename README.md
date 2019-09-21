@@ -6,3 +6,5 @@
 ## 参考链接
 
 * [Puppeteer: 更友好的 Headless Chrome Node API - 谦行 - 博客园](https://www.cnblogs.com/dolphinX/p/7715268.html)
+* [headless-crawler/src at master · Samaritan89/headless-crawler](https://github.com/Samaritan89/headless-crawler/tree/master/src)
+* [use puppeteer to generate gif](https://gist.github.com/bambooom/e6b0faaf2eeec11a80952a0c48b5decf)
